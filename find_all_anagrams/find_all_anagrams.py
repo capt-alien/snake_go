@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# def sorty(s):
-#     return "".join(sorted(s))
 
 def find_all_anagrams(s, p):
     output = []
